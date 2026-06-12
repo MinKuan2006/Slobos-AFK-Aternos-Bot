@@ -8,8 +8,7 @@
   "server": {
     "ip": "minkuanne.aternos.me",
     "port": 58384,
-    "version": "1.21.11",
-    "try-creative": false
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
