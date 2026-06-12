@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minkuanne.aternos.me",
+    "ip": "minkuanne.aternos.me:58384",
     "port": 58384,
     "version": "1.21.11"
   },
